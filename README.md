@@ -44,4 +44,4 @@ Dr. Babasaheb Ambedkar Technological University (DBATU), Aurangabad — *2024 Gr
 
 ### 🔗 Connect with me:  
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-patil/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russhikesh-patil/)
