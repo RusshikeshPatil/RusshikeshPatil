@@ -5,7 +5,7 @@
 🎬 Former VFX Compositor | Motion Graphics Artist  
  
 
-* 🔭 I’m currently working at **Consumer Links Marketing Pvt. Ltd.**, Mumbai as a Analyst Trainee.  
+* 🔭 I’m currently working at **Consumer Links Marketing Pvt. Ltd.**, Mumbai as a **Analyst Trainee**.  
 * 🌱 I’m currently Learning **Data Analytics, Power BI, and Machine Learning**.  
 * 👯 I’m looking to collaborate on **data visualization, dashboard design, and analytical projects**.  
 * 💬 Ask me about **Power BI, SQL, Python (Pandas, NumPy), and Excel automation**.  
