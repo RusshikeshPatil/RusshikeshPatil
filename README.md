@@ -24,7 +24,7 @@ Here are a few technologies I’ve been working with recently:
 
 ### 📊 Featured Projects  
 
-* ### Tata Online Retail Data Visualization (Power BI)
+*🛠️ ### Tata Online Retail Data Visualization (Power BI)
 - Cleaned and transformed retail data by removing returns and invalid records.
 - Built executive dashboards using Power BI & DAX.
 - Analyzed revenue trends, top customers, and global market performance.  
@@ -32,7 +32,7 @@ Here are a few technologies I’ve been working with recently:
 
 ---
 
-* ### Bank Customer Churn Analysis (Power BI + Python)
+*🛠️ ### Bank Customer Churn Analysis (Power BI + Python)
 - Analyzed 10,000+ customer records to identify churn drivers.
 - Performed EDA using Pandas & Seaborn.
 - Created dashboards showing churn by demographics and product usage.  
@@ -40,28 +40,28 @@ Here are a few technologies I’ve been working with recently:
 
 ---
 
-* ### Retail Sales Performance Analysis (Power BI & Excel)
+*🛠️ ### Retail Sales Performance Analysis (Power BI & Excel)
 - Identified revenue trends and customer behavior.
 - Created KPIs using Power Query & DAX.
 - Designed interactive dashboards with filters and drill-through.  
 🔗 [Project Link](https://github.com/RusshikeshPatil/retail-sales-performance-dashboard-powerbi)
 ---
 
-* ### Flipkart E-Commerce Dashboard (Tableau)
+*🛠️ ### Flipkart E-Commerce Dashboard (Tableau)
 - Analyzed 80,000+ product records.
 - Built calculated fields for revenue, discount impact, and rating analysis.  
 🔗 [Project Link](https://github.com/RusshikeshPatil/Flipkart-Sales-Discount-Rating-Tableau-Dashboard)
 
 ---
 
-* ### Bakery Sales Analysis (Python)
+*🛠️ ### Bakery Sales Analysis (Python)
 - Compared regional performance using KPIs and visual analysis.
 - Identified insights that improved sales by 45% in selected regions.  
 🔗 [Project Link](https://github.com/RusshikeshPatil/Bakery-Sales-Analysis)
 
 ---
 
-* ### E-Commerce Sales Dashboard (Excel)
+*🛠️ ### E-Commerce Sales Dashboard (Excel)
 - Analyzed category performance using Pivot Tables and charts.
 - Identified top 10 performing products.  
 🔗 [Project Link](https://github.com/RusshikeshPatil/Ecommerce-Excel-Sales-Analysis)
