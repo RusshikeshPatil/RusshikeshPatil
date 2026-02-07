@@ -37,9 +37,14 @@ Dr. Babasaheb Ambedkar Technological University (DBATU), Aurangabad — *2024 Gr
 
 ### 🧾 Certifications  
 
-* ✅ **SQL for Beginners:** SQL using MySQL and Database Design  
-* ✅ **Foundations of Data Analytics** – SkillUp Online 
+* ✅ **TechMaster Certificate Program in Data Analytics** – SkillUp.online  
+  [View Certificate](https://courses-in.skillup.online/programcertificates/2165e3d2dea94569b30e59d4a3f0fec6)
+ 
+* ✅ **SQL for Beginners: SQL using MySQL and Database Design Course ** - Scaler  
+  [View Certificate]([https://courses-in.skillup.online/programcertificates/2165e3d2dea94569b30e59d4a3f0fec6](https://moonshot.scaler.com/s/sl/vFNDvxx81g?_gl=1*zowmr8*_gcl_au*MTQ2NDgzNzkyOC4xNzY5NzcyODc0*FPAU*MTQ2MzYwOTc1Ny4xNzY5NzcyODc3*_ga*NDUyMzUzMjI2LjE3Njk3NzI4NzQ.*_ga_53S71ZZG1X*czE3Njk3NzI4NzMkbzEkZzEkdDE3Njk3NzI5MjUkajckbDAkaDEzODk4MDgwMjg) 
 
+* ✅ **Deloitte Australia Data Analytics Job Simulation ** — Forage (2025) 
+  [View Certificate]([https://courses-in.skillup.online/programcertificates/2165e3d2dea94569b30e59d4a3f0fec6](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_693d2cc8678e25f55c7ddea7_1765876675673_completion_certificate.pdf))
 ---
 
 ### 🔗 Connect with me:  
